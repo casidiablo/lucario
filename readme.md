@@ -112,5 +112,3 @@ So what about creating one, is very simple \o/
 **Credits**: Project inspired by [@zenorocha's](https://twitter.com/zenorocha) [Dracula Theme](https://github.com/zenorocha/dracula-theme).
 
 **License**: MIT ® [Raphael Amorim](https://github.com/raphamorim).
-
-test
